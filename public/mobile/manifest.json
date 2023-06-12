@@ -1,0 +1,15 @@
+{
+  "background_color": "#fff",
+  "description": "Padesar: Pre-Build Padesar Mobile App Template.",
+  "display": "fullscreen",
+  "icons": [
+	{
+	  "src": "assets/images/fav150x150.png",
+	  "sizes": "150x150",
+	  "type": "image/png"
+	}
+  ],
+  "name": "Padesar: Pre-Build Padesar Mobile App",
+  "short_name": "Padesar",
+  "start_url": "index.html"
+}
